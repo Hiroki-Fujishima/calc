@@ -1,0 +1,35 @@
+#root {
+  width:200px;
+  margin: 40px auto;
+}
+
+.result {
+  height: 40px;
+  background: black;
+}
+
+.resultValue {
+  text-align: end;
+  height: 100%;
+  font-size: 30px;
+  color: white;
+  padding-right: 15px; 
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+  background: black;
+}
+
+button {
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  margin: 5px;
+  background: #555555;
+  border: none;
+  color: white;
+  font-size: 25px;
+  padding: 0;
+}
