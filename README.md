@@ -1,6 +1,5 @@
 # calc
-====
-Overview
+
 電卓アプリとなっています。
 
 ## Description
